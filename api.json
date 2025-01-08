@@ -43,15 +43,7 @@
         "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
       }
     },
-    {
-      "key": "热播弹幕",
-      "name": "热播影视",
-      "type": 3,
-      "api": "csp_TianTian",
-      "ext": {
-        "site": "aHR0cDovL3YucmJvdHYuY24="
-      }
-    },
+
     {
       "key": "文才弹幕",
       "name": "文采影视",
