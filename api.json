@@ -20,10 +20,13 @@
       ]
     },
     {
-      "key": "ky1080",
+      "key": "客星",
       "name": "酷影视",
       "type": 3,
-      "api": "/JS/openkuyun.js"
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+      "jar": "./JS/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
     {
       "key": "南瓜",
