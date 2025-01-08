@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "请勿更新软件，点此更换线路",
+      "name": "请勿更新软件，点此更换线路，23时至次日8时停机维护",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
