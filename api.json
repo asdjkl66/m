@@ -1,5 +1,6 @@
 {
   "spider": "./spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "sites": [
     {
       "key": "豆瓣",
@@ -117,9 +118,19 @@
   ],
   "parses": [
     {
-      "name": "官解",
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "优选",
       "type": 1,
-      "url": "http://jx.jiujiutv.fun/api/diy/?key=8fHZtHP7HKQErpOLUM&url=",
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -146,9 +157,9 @@
       }
     },
     {
-      "name": "优选",
+      "name": "官解",
       "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "url": "http://jx.jiujiutv.fun/api/diy/?key=8fHZtHP7HKQErpOLUM&url=",
       "ext": {
         "flag": [
           "qq",
