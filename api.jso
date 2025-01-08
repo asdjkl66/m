@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "停机维护中，请勿更新版本",
+      "name": "停机维护中，请勿更新软件",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
