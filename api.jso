@@ -1,0 +1,22 @@
+{
+  "spider": "./spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "请勿更新版本，点此更换线路，23时至次日8时停机维护",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "categories": [
+        "热播剧集",
+        "热门电影",
+        "电视筛选",
+        "电视剧榜单",
+        "电影筛选",
+        "电影榜单",
+        "热播综艺"
+      ]
+    }
+  ]
+ }
