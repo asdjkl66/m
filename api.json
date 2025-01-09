@@ -32,6 +32,7 @@
       "key": "南瓜",
       "name": "南瓜影视",
       "type": 3,
+      "jar":"./JS/nangua.jar",
       "api": "csp_NanGua",
       "ext": ""
     },
