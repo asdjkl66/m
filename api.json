@@ -1,10 +1,11 @@
 {
   "spider": "./spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
+  "logo": "http://php.540734621.xyz/logo/logo.php",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "请勿更新软件，仅测试使用，下载后请于24小时内删除。",
+      "name": "仅供测试使用，下载后请于24小时内删除。",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
