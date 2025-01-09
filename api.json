@@ -239,6 +239,11 @@
       "name": "盘古",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+    {
+      "name": "皮皮虾",
+      "type": "1",
+      "url": "http://45.207.215.101:5423/index.php?url="
     }
   ],
   "rules": [
