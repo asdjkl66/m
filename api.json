@@ -123,14 +123,9 @@
   ],
   "parses": [
     {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "官解",
+      "name": "优选",
       "type": 1,
-      "url": "http://jx.jiujiutv.fun/api/diy/?key=8fHZtHP7HKQErpOLUM&url=",
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -157,9 +152,9 @@
       }
     },
     {
-      "name": "优选",
+      "name": "官解",
       "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "url": "http://jx.jiujiutv.fun/api/diy/?key=8fHZtHP7HKQErpOLUM&url=",
       "ext": {
         "flag": [
           "qq",
@@ -241,35 +236,6 @@
       "name": "盘古",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
-    },
-    {
-      "name": "皮皮虾",
-      "type": "1",
-      "url": "http://45.207.215.101:5423/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     }
   ],
   "rules": [
