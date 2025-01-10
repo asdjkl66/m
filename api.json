@@ -1,7 +1,6 @@
 {
   "spider": "./spider.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
-  "logo": "http://php.540734621.xyz/logo/logo.php",
   "sites": [
     {
       "key": "豆瓣",
@@ -414,6 +413,7 @@
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     }
   ],
+  "logo": "./JS/lg.php",
   "flags": [
     "youku",
     "优酷",
