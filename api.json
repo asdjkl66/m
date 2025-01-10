@@ -204,7 +204,7 @@
     },
     {
       "name": "虾米",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
@@ -214,7 +214,7 @@
     },
     {
       "name": "巧技",
-      "type": 1,
+      "type": 0,
       "url": "https://zy.qiaoji8.com/gouzi.php?url="
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "name": "小米",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
