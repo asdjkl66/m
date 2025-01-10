@@ -24,7 +24,7 @@
       "name": "专享聚合",
       "type": 3,
       "api": "csp_Xdai",
-      "playerType": 1,
+      "playerType": 2,
       "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
       "jar": "./JS/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230",
       "categories": [
@@ -41,7 +41,7 @@
       "type": 3,
       "jar":"./JS/nangua.jar",
       "api": "csp_NanGua",
-      "playerType": 1,
+      "playerType": 2,
       "ext": ""
     },
     {
@@ -49,7 +49,7 @@
       "name": "天天影视",
       "type": 3,
       "api": "csp_TianTian",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -63,7 +63,7 @@
       "type": 3,
       "quickSearch": 0,
       "api": "csp_TianTian",
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": "aHR0cDovL3YucmJvdHYuY24="
       }
@@ -73,7 +73,7 @@
       "name": "文采影视",
       "type": 3,
       "api": "csp_Jpys",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
