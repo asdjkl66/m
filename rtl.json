@@ -117,6 +117,15 @@
       "filterable": 0
     },
     {
+      "key": "88看球",
+      "name": "88看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "./JS/qiu.jar"
+    },
+    {
       "key": "动漫巴士",
       "name": "56动漫",
       "type": 3,
