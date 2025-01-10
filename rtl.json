@@ -410,7 +410,7 @@
       "url": "./JS/KYS.json",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
+      "epg": "http://111.67.193.2:5678/epg?ch={name}&date={date}"
     }
   ],
   "logo": "./JS/lg.php",
