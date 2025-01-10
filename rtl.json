@@ -108,6 +108,12 @@
       "ext": "./JS/MGDM.js"
     },
     {
+      "key": "360kan",
+      "name": "360影视",
+      "type": 3,
+      "api": "./JS/360.js"
+    },
+    {
       "key": "星芽短剧",
       "name": "星芽短剧",
       "type": 3,
@@ -242,6 +248,16 @@
           "哔哩哔哩",
           "哔哩"
         ]
+      }
+    },
+    {
+      "name": "小米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
       }
     },
     {
