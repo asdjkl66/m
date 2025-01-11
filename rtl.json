@@ -20,13 +20,11 @@
       ]
     },
     {
-      "key": "客星",
+      "key": "ky",
       "name": "专享聚合",
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-      "jar": "./JS/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230",
+      "type": 3,
+      "api": "./JS/zhuanxiang.js",
       "categories": [
         "全部",
         "剧集",
@@ -183,6 +181,18 @@
       "changeable": 0,
       "jar": "./JS/qiu.jar"
     },
+        {
+      "key": "88js",
+      "name": "88看球体育",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
     {
       "key": "动漫巴士",
       "name": "56动漫",
@@ -273,7 +283,29 @@
     {
       "name": "巧技",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url="
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
     },
     {
       "name": "夜幕",
@@ -303,19 +335,29 @@
       }
     },
     {
-      "name": "小米",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
       "name": "盘古",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+    {
+      "name": "内部",
+      "type": 0,
+      "url": "https://jxjson.icu/neibu.php?url="
+    },
+    {
+      "name": "转播",
+      "type": 0,
+      "url": "https:/dl.love0997.top/zbjx.php?url="
+    },
+    {
+      "name": "流光",
+      "type": 0,
+      "url": "https:/dl.love0997.top/liuguang.php?v="
+    },
+    {
+      "name": "麒麟",
+      "type": 0,
+      "url": "https:/dl.love0997.top/qilin.php?v="
     }
   ],
   "rules": [
