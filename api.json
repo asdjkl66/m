@@ -20,13 +20,11 @@
       ]
     },
     {
-      "key": "客星",
+      "key": "ky",
       "name": "专享聚合",
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-      "jar": "./JS/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+      "type": 3,
+      "api": "./JS/zhuanxiang.js"
     },
     {
       "key": "南瓜",
