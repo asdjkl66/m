@@ -181,18 +181,6 @@
       "changeable": 0,
       "jar": "./JS/qiu.jar"
     },
-        {
-      "key": "88js",
-      "name": "88看球体育",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
     {
       "key": "动漫巴士",
       "name": "56动漫",
@@ -338,26 +326,6 @@
       "name": "盘古",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
-    },
-    {
-      "name": "内部",
-      "type": 0,
-      "url": "https://jxjson.icu/neibu.php?url="
-    },
-    {
-      "name": "转播",
-      "type": 0,
-      "url": "https:/dl.love0997.top/zbjx.php?url="
-    },
-    {
-      "name": "流光",
-      "type": 0,
-      "url": "https:/dl.love0997.top/liuguang.php?v="
-    },
-    {
-      "name": "麒麟",
-      "type": 0,
-      "url": "https:/dl.love0997.top/qilin.php?v="
     }
   ],
   "rules": [
