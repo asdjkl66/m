@@ -42,7 +42,13 @@
       "jar":"./JS/nangua.jar",
       "api": "csp_NanGua",
       "playerType": 2,
-      "ext": ""
+      "ext": "",
+      "categories": [
+        "电视剧",
+        "电影",
+        "综艺",
+        "动漫"
+         ]
     },
     {
       "key": "天天弹幕",
@@ -55,7 +61,14 @@
       "filterable": 1,
       "ext": {
         "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
-      }
+      },
+      "categories": [
+        "内地",
+        "电影",
+        "综艺",
+        "动漫",
+        "韩剧"
+         ]
     },
     {
       "key": "热播弹幕",
@@ -66,7 +79,14 @@
       "playerType": 2,
       "ext": {
         "site": "aHR0cDovL3YucmJvdHYuY24="
-      }
+      },
+      "categories": [
+        "内地",
+        "电影",
+        "综艺",
+        "动漫",
+        "韩剧"
+         ]
     },
     {
       "key": "文才弹幕",
@@ -76,7 +96,13 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "电视剧",
+        "电影",
+        "综艺",
+        "动漫"
+         ]
     },
     {
       "key": "荐片弹幕",
@@ -84,14 +110,30 @@
       "type": 3,
       "playerType": 1,
       "api": "./JS/drpy2.min.js",
-      "ext": "./JS/jp.js"
+      "ext": "./JS/jp.js",
+      "categories": [
+        "全部",
+        "电视剧",
+        "电影",
+        "综艺",
+        "动漫"
+         ]
     },
     {
       "key": "爱奇艺弹幕",
       "name": "爱奇艺",
       "type": 3,
       "api": "./JS/drpy2.min.js",
-      "ext": "./JS/AQYDM.js"
+      "ext": "./JS/AQYDM.js",
+      "categories": [
+        "电视剧",
+        "电影",
+        "综艺",
+        "动漫",
+        "网络电影",
+        "纪录片",
+        "音乐"
+         ]
     },
     {
       "key": "优酷弹幕",
@@ -105,7 +147,16 @@
       "name": "腾讯视频",
       "type": 3,
       "api": "./JS/drpy2.min.js",
-      "ext": "./JS/TXDM.js"
+      "ext": "./JS/TXDM.js",
+      "categories": [
+        "精选",
+        "电视剧",
+        "电影",
+        "综艺",
+        "动漫",
+        "少儿",
+        "纪录片"
+         ]
     },
     {
       "key": "芒果弹幕",
