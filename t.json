@@ -1,0 +1,253 @@
+{"spider": "https://framagit.org/knnnn/n/-/raw/main/j/456.jar",
+"wallpaper": "https://api.likepoems.com/img/bing",
+"sites": [
+
+{"key": "豆","name": "推荐热门","type": 3,"api": "csp_DouDouGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","indexs": 1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "巧技","name": "巧技影视","type": 3,"api": "csp_qiao2","playerType": 2,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
+"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
+{"key": "天天","name": "天天影视","type": 3,"api": "csp_AppRJGuard",
+"ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"},
+{"key": "热热","name": "热热影视","type": 3,"api": "csp_AppRJGuard",
+"ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},
+{"key": "追剧","name": "追剧影视","type": 3,"api": "csp_AppRJGuard",
+"ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"},
+{"key": "悠悠","name": "悠悠影视","type": 3,"api": "csp_Muou","playerType": 2,"quickSearch": 1,"ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"},
+{"key": "莉莉","name": "莉莉影视","type": 3,"api": "csp_AppGetGuard",
+"ext": "sHR2rlsfjI4L3t4RXQMknxJtF/Rs4D/70oW+gRg0xr7N1Upd/rmFB/tNPdwo9VnqtAIgc1bl0R9DD+8OUlBjzccXhVUEcX/QykwwCHTT6hl7uWNpVj5iyLdLaA/HmFqJ4g/jRau3vEd9oPkIdRFl3cXzbdxCjuhvAneD9Z+FEmhkhZJCaxIF0ljdvMaJk+azmYylRspoKik3x5xQtNXvCfiqPjYONdZGw1tP+t693VKZHplfqYsZtg6H8exNiPr1"},
+{"key": "csp_erxiao","name": "小二影视","type": 3,"api": "csp_WoggGuard","changeable": "0","filterable": 1,
+"ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg8HRLDJRyMSnpYFvc3YcUKU7vtA8mtXyVDjnV9pt/m9F+Dy9vcsYhE5I3gPSHX/Z4UhpGqxG0uco9soay9jugu36r59f6MIJBttWnObP2fF98lUKF8D16Dj8Ad8ecPvLAaul0+DuYjuLYYsyVPXP5oPMeZFc80SDDtrf1IVvlL4zhKXVd6jUlX4glAhU2a5buzkfT7btT2Yl63A4fcneACYgICJKmGRSpqxxDZUh2TmUpBDQtpwZyB1PawBjycHdvyS1CgNB09cwXXF8Dfl0PE+JfkKJLTN96xQgqxa1RQie0ytMeJXxADP2SLb2W65WZmhuiGNSH2M3d9EsYgo6P1/YD/9QulK1XKoBt3oBb532suo8xaBshspOloFJXoOuuI="},
+{"key": "优秀","name": "优秀影视","type": 3,"api": "csp_AppGetGuard",
+"ext": "rpb8IjZTuzYSqZNn/sGvG+nmDP6c5rlJM5DTXdn6d/OdwIl8hAgvoCnQmL7YkzCXHe+hpViArom3TFB7ORHGx8Gsyk/NiHE7VuNzVMP/C+/r78ogd9EF54Pi+n6PkOaxl7jEppsqJjozMoCPS929dwPWfx4NGsZnpVFvANeZUOzlo4RKfmAaN35kAo+7amKcqawPF/jPPsCEXambLeH+PqICmlcdkCN+3k+Dft4Z8iA="},
+{"key": "csp_Lgyy","name": "流光影视","type": 3,"api": "csp_FreeOkGuard"},
+{"key": "csp_LiteApple","name": "苹果影视","type": 3,"api": "csp_LiteAppleGuard"},
+{"key": "csp_Jpys","name": "金牌影视","type": 3,"api": "csp_JpysGuard"},
+{"key": "csp_Wwys","name": "农民影视","type": 3,"api": "csp_WwysGuard","ext": "https://www.wwgz.cn"},
+{"key": "csp_MiSou","name": "米搜网盘","type": 3,"changeable": "0","api": "csp_MiSouGuard","ext": ""},
+{"key": "csp_SAOHUO","name": "火火影视","type": 3,"api": "csp_SaoHuoGuard"},
+
+{"key": "油条","name": "油条影视","type": 3,"api": "csp_Muou","playerType": 2,"jar":"https://framagit.org/knnnn/n/-/raw/main/f/fix250304.jar","ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
+{"key": "23ys","name": "二三影视","type": 3,"api": "csp_Muou","playerType": 2,"jar":"https://framagit.org/knnnn/n/-/raw/main/f/fix250304.jar","ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
+{"key": "糯米","name": "糯米影视","type": 3,"api": "csp_NmyswvGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","searchable": 1,"quickSearch": 1,"changeable": 1},
+//{"key": "萌米","name": "萌米影视","type": 3,"api": "csp_AppTTGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
+//{"key": "文采","name": "文采影视","type": 3,"api": "csp_JpysGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+//{"key": "热播","name": "热播影视","type": 3,"api": "csp_AppTTGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
+//{"key": "电影港","name":"电影港磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/jiucai/fjtv/raw/branch/main/file/DYG.json"},
+
+{"key": "push_agent","name": "推送播放","type": 3,"api": "csp_PushGuard","searchable": 0,"ext": ""},
+{"key": "看球","name": "看球体育","type": 3,"api": "csp_KanqiuGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","searchable": 0,"changeable": 0,"style": {"type": "list"}},
+{"key": "Jrsjs","name":"JRK球赛","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
+{"key": "Aid","name": "教学教育","type": 3,"api": "csp_FirstAidGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
+{"key": "dr_兔小贝","name": "小贝启蒙","type": 3,"api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key": "少儿教育","name": "少儿教育","type": 3,"api": "csp_BiliGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"}},
+{"key": "小学课堂","name": "小学课堂","type": 3,"api": "csp_BiliGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"}},
+{"key": "初中课堂","name": "初中课堂","type": 3,"api": "csp_BiliGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"}},
+{"key": "高中教育","name": "高中课堂","type": 3,"api": "csp_BiliGuard","jar":"https://framagit.org/knnnn/n/-/raw/main/f/123.txt","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}}
+],
+"parses": [
+{
+"name": "Json聚合",
+"type": 3,
+"url": "Demo"
+},
+{
+"name": "影视聚合",
+"type": 3,
+"url": "影视"
+},
+{
+"name": "自用",
+"type": 1,
+"url": ""
+},
+{
+"name": "8090g",
+"type": 0,
+"url": ""
+},
+{
+"name": "虾米",
+"type": 0,
+"url": ""
+},
+{
+"name": "夜幕",
+"type": 0,
+"url": ""
+}
+],
+"logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739415605613/015dae5bcd1ff5a801213dea55f8c4.jpg",
+"lives": [
+{
+"name": "AKTV",
+"type": 0,
+"url": "http://aktv.space/live.m3u",
+"playerType": 1,
+"logo": ""
+},
+{
+"name": "平台直播",
+"type": 0,
+"url": "https://tv.iill.top/m3u/Live",
+"ua": "okhttp/3.15",
+"playerType": 2
+}
+],
+"rules": [
+{
+"name": "量非",
+"hosts": [
+"lz",
+"vip.lz",
+"v.cdnlz",
+"hd.lz",
+"ffzy",
+"vip.ffzy",
+"hd.ffzy"
+],
+"regex": [
+"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+]
+},
+{
+"name": "索尼",
+"hosts": [
+"suonizy",
+"qrssv.com"
+],
+"regex": [
+"15.1666",
+"15.2666"
+]
+},
+{
+"name": "乐视",
+"hosts": [
+"leshiyun"
+],
+"regex": [
+"15.92"
+]
+},
+{
+"name": "优质",
+"hosts": [
+"yzzy",
+"playback"
+],
+"regex": [
+"16.63",
+"18.66",
+"17.66",
+"19.13"
+]
+},
+{
+"name": "快看",
+"hosts": [
+"kuaikan",
+"vip.kuaikan"
+],
+"regex": [
+"15.32",
+"15.231",
+"18.066"
+]
+},
+{
+"name": "360",
+"hosts": [
+"lyhuicheng"
+],
+"regex": [
+"#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+"#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+]
+},
+{
+"name": "开源棋牌",
+"hosts": [
+"askzycdn",
+"jkunbf",
+"bfikuncdn",
+"bfaskcdn"
+],
+"regex": [
+"#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+"#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+]
+},
+{
+"name": "暴风",
+"hosts": [
+"bfengbf.com",
+"bfzy",
+"c1"
+],
+"regex": [
+"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+]
+},
+{
+"name": "农民",
+"hosts": [
+"toutiaovod.com"
+],
+"regex": [
+"video/tos/cn"
+]
+},
+{
+"name": "火山",
+"hosts": [
+"huoshan.com"
+],
+"regex": [
+"item_id="
+]
+},
+{
+"name": "抖音",
+"hosts": [
+"douyin.com"
+],
+"regex": [
+"is_play_url="
+]
+},
+{
+"name": "磁力",
+"hosts": [
+"magnet"
+],
+"regex": [
+"最 新",
+"直 播",
+"更 新"
+]
+},
+{
+"name": "饭团点击",
+"hosts": [
+"dadagui",
+"freeok",
+"dadagui"
+],
+"script": [
+"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+]
+},
+{
+"name": "毛驴点击",
+"hosts": [
+"www.maolvys.com"
+],
+"script": [
+"document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+]
+}
+]
+}
